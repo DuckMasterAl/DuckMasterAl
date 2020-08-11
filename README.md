@@ -4,7 +4,7 @@
 I develop discord bots, like [Quacky Bot](https://quacky.js.org), and love Ducks :duck:
 
 ## Projects 💻 
-Currently, my main project is [Quacky Bot](https://quacky.js.org), but I also work on other things (small projects) and work on [my website!](https://duck.js.org)
+Currently, my main project is [Quacky Bot](https://quacky.js.org), but I also work on [my website](https://duck.js.org) and other small projects.
 
 I also am a Moderator on [Discord Extreme List](https://discordextremelist.xyz) and work with [HarryPGaming on Youtube!](https://www.youtube.com/channel/UCr35D4WaXok9l5r5sLfLHmw)
 ### Commissions :octocat: 
