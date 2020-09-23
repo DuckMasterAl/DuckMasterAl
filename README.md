@@ -1,4 +1,4 @@
-# Hi, I'm DuckMasterAl :wave:
+# Hi, I'm DuckMasterAl!
 ![Duck's Discord Status](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/443217277580738571) ![Duck's Discord Playing Status](https://img.shields.io/endpoint?label=playing/using&url=https://dev.discordprofiles.me/api/badge/playing/443217277580738571) [![Website](https://img.shields.io/website?label=Duck%27s%20Website&logo=atom&up_message=online&url=https%3A%2F%2Fduck.js.org)](https://duck.js.org)
 
 I develop discord bots, like [Quacky Bot](https://quacky.js.org), and love Ducks :duck:
