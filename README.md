@@ -12,5 +12,3 @@ I also work with [HarryPGaming on Youtube!](https://www.youtube.com/channel/UCr3
 Feel Free to Contact me on discord [@DuckMasterAl#0001](https://discord.com/users/443217277580738571) if you want a discord bot commission.
 ### Contact Me 📬 
 You can contact me on any of my social medias, but you'll get a faster response time if you [email me](mailto:duckmaster.dev@gmail.com) or [DM Me on Discord.](https://discord.com/users/443217277580738571)
-
-[![Look at these Shiney Trophies!](https://github-profile-trophy.vercel.app/?username=duckmasteral&rank=SS,SSS,AA,AAA,A,S)](https://github.com/ryo-ma/github-profile-trophy)
