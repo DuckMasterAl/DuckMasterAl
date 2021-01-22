@@ -8,7 +8,7 @@ I develop discord bots, like [Quacky Bot](https://quacky.xyz), and love Ducks :d
 Currently, my main project is [Quacky Bot](https://quacky.xyz), but I also work on [my website](https://bduck.xyz) and other small projects.
 <!-- I also am a Moderator on [Discord Extreme List](https://discordextremelist.xyz) and work with [HarryPGaming on Youtube!]-->
 <!-- I also work with [HarryPGaming on Youtube!](https://www.youtube.com/channel/UCr35D4WaXok9l5r5sLfLHmw) -->
-I also am a Site Moderator on [Chatwind!](https://chatwindapp.com)
+I also am a Site Moderator on [Chatwind!](https://chatwindapp.com) You can see other projects I've worked on [here.](https://bduck.xyz/#other-projects)
 ### Commissions :octocat: 
 Feel Free to Contact me on discord [@DuckMasterAl#0001](https://discordrep.com/u/443217277580738571#) if you want a discord bot commission.
 ### Contact Me 📬 
