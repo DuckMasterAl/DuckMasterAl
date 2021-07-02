@@ -1,6 +1,6 @@
 # Hi, I'm DuckMasterAl!
 <!-- I see you trying to copy the Status Badge! It may not work for you :p -->
-![Duck's Discord Status](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/443217277580738571) ![Duck's Discord Playing Status](https://img.shields.io/endpoint?label=playing/using&url=https://dev.discordprofiles.me/api/badge/playing/443217277580738571) [![Website](https://img.shields.io/website?label=Duck%27s%20Website&logo=atom&up_message=online&url=https%3A%2F%2Fbduck.xyz)](https://bduck.xyz)
+[![Duck's Discord Status](https://dev.discordprofiles.me/badge/status/443217277580738571)](https://bduck.xyz/discord) [![Duck's Discord Playing Status](https://dev.discordprofiles.me/badge/playing/443217277580738571)](https://bduck.xyz/discord) [![Website Status](https://img.shields.io/website?label=Duck%27s%20Website&logo=atom&up_message=online&url=https%3A%2F%2Fbduck.xyz)](https://bduck.xyz)
 
 I develop discord bots, like [Quacky Bot](https://quacky.xyz), and love Ducks :duck:
 
