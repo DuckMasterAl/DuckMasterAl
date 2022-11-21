@@ -1,6 +1,1 @@
-### DuckMasterAl @ [bduck.xyz](https://bduck.xyz)
-Developer, Musician, Student, and Duck at Heart <3
-
-![Discord Status](https://dev.discordprofiles.me/badge/status/443217277580738571)
-![Discord Playing Status](https://dev.discordprofiles.me/badge/playing/443217277580738571)
-![Discord Coding Status](https://dev.discordprofiles.me/badge/vscode/443217277580738571)
+<img src="https://user-images.githubusercontent.com/43557963/203157595-e6541be9-1506-4102-b836-1e47de536bc7.png" width="1500">
